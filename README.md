@@ -33,8 +33,8 @@
 2. **کلون کردن ریپوزیتوری:**
 
     ```bash
-    git clone https://github.com/yourusername/todo-app-pyside6.git
-    cd todo-app-pyside6
+    git clone https://github.com/TheCodeExplore/TODO-App.git
+    cd TODO-App
     ```
 
 ## 🚀 اجرا
